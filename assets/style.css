@@ -127,14 +127,13 @@ footer a {
   margin: 3.5%;
   color: #fff;
   font-size: 18px;
-  line-height: 1.2;
+  line-height: 1.3;
 }
 
 .hero-cta h2 {
   font-style: italic;
   font-size: 55px;
-  color: var(--primary-color);
-  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  color: #fce138
 }
 
 .form-input {
