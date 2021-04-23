@@ -10,6 +10,7 @@
   <body>
     <!-- navigation tags - block level element -->
     <header>
+      z-index: 9999;
       <h1>
         <a href="/">RUN BUDDY</a>
       </h1>
@@ -47,6 +48,23 @@
       </div>
 
       <div class="hero-form">
+        <p>
+          Have you worked out with a trainer before?
+          <span class="radio-wrapper">
+            <input type="radio" name="trainer-confirm" id="trainer-yes" />
+            <label for="trainer-yes">Yes</label>
+          </span>
+          <span class="radio-wrapper">
+            <input type="radio" name="trainer-confirm" id="trainer-no" />
+            <label for="trainer-no">No</label>
+          </span>
+        </p>
+        <p>
+          <span class="checkbox-wrapper">
+            <input type="checkbox" name="age-confirm" id="checkbox" />
+            <label for="checkbox">I acknowledge that I am at least 18 years of age.</label>
+          </span>
+        </p>
         <h3>Get Started Today</h3>
         <p>Fill out this form and one of our trainers will schedule a consult.</p>
         <form>
