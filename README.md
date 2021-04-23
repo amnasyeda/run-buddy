@@ -8,7 +8,7 @@ Built With
 * CSS
 
 Website
-https://lernantino.github.io/run-buddy/
+https://amnasyeda.github.io/run-buddy/
 
 Contribution
 Made with ❤️ by Amna 
